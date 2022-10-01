@@ -2,7 +2,7 @@ import tkinter as akasha
 from PIL import ImageTk
 from Users.createUser import createUser
 
-#--------------------------------------------------------Magic
+#--------------------------------------------------------Magic pisze coś w userlogin IB2R5I
 
 grail = akasha.Tk()
 
