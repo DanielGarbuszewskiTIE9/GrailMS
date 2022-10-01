@@ -1,12 +1,12 @@
-GrailMS
+# GrailMS
 Management System themed and inspired by Fate series
 
 
-1. How to start?
+# 1. How to start?
 To properly launch GrailMS open "grail.pyw".
 In order to create an user, you must pick username and password that are unique and then click "Register". At the moment there's no indication if user was sucessfully created, so after registering click "Login" button and if it launches you're ready to go.
 
-2. Commands
+# 2. Commands
 - *open [file name]*:
   Opens an editable file(eg.: .txt, .py) in text editor. The file must be in your current path. Current path contents are displayed in list on right side of the window.
 - *save [file name]*:
@@ -24,5 +24,5 @@ In order to create an user, you must pick username and password that are unique 
 - *display [image name]*:
   Opens up an image chosen from current path in external window. Window is the size of chosen image so it might be very big, because current version of GrailMS doesn't optimize it yet.
   
-3. Overall purpose
+# 3. Overall purpose
 GrailMS serves no purpose. This is a program is made purily from my vison. It's rather heavily personalized and made just beacuse. I'll probably add more visual and functional options to customize in the future, but for now I care only about my personal experience with it.
